@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Alghifari!
 
-🎓 I'm a web developer and mobile app enthusiast  
+🎓 Web and Desktop Developer Enthusiast 
 🌱 Currently learning:Laravel, Tailwind CSS, and C#  
 
 ## 🔧 Tech Stack
