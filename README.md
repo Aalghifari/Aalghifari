@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Citer Citer!
 
-<!--
-**Aalghifari/Aalghifari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a web developer and mobile app enthusiast  
+💻 I love building CRUD apps, quiz apps, and cool UIs  
+🌱 Currently learning: Flutter, Laravel, and Tailwind CSS  
+📫 How to reach me: citerciter@example.com  
 
-Here are some ideas to get you started:
+## 🚀 My Projects
+- ✨ [Quiz App in Flutter](https://github.com/yourusername/flutter-quiz)
+- 📚 [Library CRUD with PHP](https://github.com/yourusername/library-crud)
+- 🎨 [Portfolio Website](https://github.com/yourusername/portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+
+## 📊 GitHub Stats
+![Citer’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
