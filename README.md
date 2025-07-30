@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Citer Citer!
+# Hi there 👋 I'm Alghifari!
 
 🎓 I'm a web developer and mobile app enthusiast  
 💻 I love building CRUD apps, quiz apps, and cool UIs  
