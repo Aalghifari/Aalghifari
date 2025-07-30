@@ -10,4 +10,4 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 
 ## 📊 GitHub Stats
-![Citer’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Citer’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aalghifari&show_icons=true&theme=tokyonight)
