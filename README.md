@@ -1,14 +1,7 @@
 # Hi there 👋 I'm Alghifari!
 
 🎓 I'm a web developer and mobile app enthusiast  
-💻 I love building CRUD apps, quiz apps, and cool UIs  
-🌱 Currently learning: Flutter, Laravel, and Tailwind CSS  
-📫 How to reach me: citerciter@example.com  
-
-## 🚀 My Projects
-- ✨ [Quiz App in Flutter](https://github.com/yourusername/flutter-quiz)
-- 📚 [Library CRUD with PHP](https://github.com/yourusername/library-crud)
-- 🎨 [Portfolio Website](https://github.com/yourusername/portfolio)
+🌱 Currently learning: Flutter, Laravel, and Tailwind CSS   
 
 ## 🔧 Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
